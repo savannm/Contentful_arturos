@@ -1,6 +1,6 @@
 # Get Started with React and Contentful
 - https://www.contentful.com/react-starter/
-- get management access token from contentful site CMA tokens. Click authorize.
+- get management access token from contentful site CMA tokens. Click authorize.nm
 - Fetch your data from Contentful, manage it in React
 - Uses the [Contentful JavaScript SDK](https://www.npmjs.com/package/contentful) and [`swr`](https://swr.vercel.app/) to fetch your data.
 
